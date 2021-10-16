@@ -680,7 +680,7 @@ input:focus::-moz-placeholder {
 /* scrollUp */
 /* line 417, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
 #scrollUp {
-  background: #2577fd;
+  background: #E5097F;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -3782,7 +3782,7 @@ input:focus {
 
 /* line 293, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
 .top-bg {
-  background: ;
+  background: white;
 }
 
 /* line 300, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
@@ -4393,7 +4393,7 @@ input:focus {
 
 /* line 34, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_latest_products.scss */
 .latest-product-area .single-product .product-img .new-product span {
-  background: #ff003c;
+  background: #E5097F;
   padding: 3px 16px;
   border-radius: 30px;
   color: #fff;
@@ -4432,7 +4432,7 @@ input:focus {
 
 /* line 69, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_latest_products.scss */
 .latest-product-area .single-product .product-caption .price ul li.discount {
-  color: #ff003c;
+  color: #E5097F;
   text-decoration: line-through;
 }
 
@@ -4465,7 +4465,7 @@ input:focus {
 
 /* line 96, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_latest_products.scss */
 .latest-product-area .nav-tabs .nav-item.show .nav-link, .latest-product-area .nav-tabs .nav-link.active {
-  color: #ff003c;
+  color: #009846;
 }
 
 /* line 99, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_latest_products.scss */
@@ -10257,6 +10257,10 @@ input:focus {
 .irs-min {
   display: none;
 }
+
+
+
+
 
 /* line 537, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product.scss */
 .price_rangs_aside .l_w_title h3 {
